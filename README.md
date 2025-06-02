@@ -1,47 +1,57 @@
-🏠 Cloud-based Housing Management System
-Duration: Sep 2023 – Dec 2023
-Tech Stack: Power Apps · Azure SQL · Microsoft Azure · Agile
+# 🏠 Cloud-based Housing Management System
 
-📌 Project Overview
-This is a student-centric Housing Management System designed to streamline room allocation, lease management, and maintenance workflows. Built using Power Apps and Azure SQL, the system improved operational efficiency by 25% and enhanced user experience for both students and housing providers.
+**Duration:** Sep 2023 – Dec 2023  
+**Tech Stack:** Power Apps · Azure SQL · Microsoft Azure · Agile
 
-🚀 Key Features
-📱 Power App Interface: Intuitive UI for students and lease providers.
+## 📌 Project Overview
+The **Cloud-based Housing Management System** is a student-focused platform designed to simplify housing processes such as room allocation, lease management, and maintenance requests. Developed using **Microsoft Power Apps** and **Azure SQL**, the system significantly improved operational efficiency and user experience.
 
-☁️ Azure SQL Backend: Secure, scalable data storage.
+> 🚀 Achieved a 25% improvement in operational efficiency and enhanced student satisfaction through intuitive UI and automated workflows.
 
-🔄 Agile Development: Timely delivery through sprint-based collaboration.
+## 🚀 Key Features
+- 📱 **User-Friendly Interface**  
+  Built with Power Apps for seamless interaction between students and lease providers.
 
-📈 Efficiency Boost: 25% increase in operational efficiency.
+- ☁️ **Cloud-Based Architecture**  
+  Leveraged Azure SQL for secure and scalable backend storage.
 
-😊 Improved UX: Positive feedback from users on ease of use.
+- 🔄 **Agile Development**  
+  Delivered on-time using Agile methodology with continuous stakeholder feedback.
 
-📊 Modules
-🏢 Room & Housing Allocation
+- 📈 **Operational Efficiency**  
+  Reduced manual processes and streamlined data flow across modules.
 
-📄 Lease Management
+## 📊 Core Modules
+- 🏢 **Housing Allocation**  
+  Assign rooms based on availability and student preferences.
 
-🧰 Maintenance Requests
+- 📄 **Lease Management**  
+  Manage contract creation, renewals, and documentation digitally.
 
-🔔 Automated Notifications
+- 🧰 **Maintenance Requests**  
+  Students can raise and track maintenance issues with real-time status updates.
 
-🛠️ Technologies Used
-Microsoft Power Apps
+- 🔔 **Notification System**  
+  Automated alerts for lease expirations, room assignments, and more.
 
-Azure SQL Database
+## 🛠️ Technologies Used
+- Microsoft Power Apps  
+- Azure SQL Database  
+- Microsoft Azure Cloud Services  
+- Agile/Scrum Project Management
 
-Microsoft Azure
+## 📈 Impact
+- ✅ 25% boost in operational efficiency  
+- ✅ Enhanced user satisfaction  
+- ✅ Centralized data management  
+- ✅ Improved service delivery for students
 
-Agile / Scrum methodology
+## 👤 Author
 
-📈 Impact
-Reduced manual housing operations
+**Prashant Gautam**  
+📧 psprasha50@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/gautam-prashant/)
 
-Centralized and accessible data
+---
 
-Increased student satisfaction
-
-👤 Author
-Prashant Gautam
-📧 psprasha50@gmail.com
-🔗 LinkedIn
+Feel free to clone, fork, or reach out for collaboration opportunities.
