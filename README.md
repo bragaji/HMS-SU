@@ -1,8 +1,47 @@
-# HMS-SU
-**
-Cloud based Housing Management System 	Sep 2023 - Dec 2023**
+🏠 Cloud-based Housing Management System
+Duration: Sep 2023 – Dec 2023
+Tech Stack: Power Apps · Azure SQL · Microsoft Azure · Agile
 
-•	Orchestrated the development of a student-centric Housing Management System, collaborating with an agile team of developers; ensured on-time delivery and tailored solutions for stakeholders, resulting in a 25% increase in operational efficiency and improved student satisfaction.
-•	Designed and created an intuitive Power App UI for a Housing Management System, enhancing user experience for students and lease providers.
-•	Implemented a robust SQL database solution, leveraging Azure Server for optimized data storage, maintenance, and accessibility in the Housing Management System.
+📌 Project Overview
+This is a student-centric Housing Management System designed to streamline room allocation, lease management, and maintenance workflows. Built using Power Apps and Azure SQL, the system improved operational efficiency by 25% and enhanced user experience for both students and housing providers.
 
+🚀 Key Features
+📱 Power App Interface: Intuitive UI for students and lease providers.
+
+☁️ Azure SQL Backend: Secure, scalable data storage.
+
+🔄 Agile Development: Timely delivery through sprint-based collaboration.
+
+📈 Efficiency Boost: 25% increase in operational efficiency.
+
+😊 Improved UX: Positive feedback from users on ease of use.
+
+📊 Modules
+🏢 Room & Housing Allocation
+
+📄 Lease Management
+
+🧰 Maintenance Requests
+
+🔔 Automated Notifications
+
+🛠️ Technologies Used
+Microsoft Power Apps
+
+Azure SQL Database
+
+Microsoft Azure
+
+Agile / Scrum methodology
+
+📈 Impact
+Reduced manual housing operations
+
+Centralized and accessible data
+
+Increased student satisfaction
+
+👤 Author
+Prashant Gautam
+📧 psprasha50@gmail.com
+🔗 LinkedIn
